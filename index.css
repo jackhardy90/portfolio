@@ -1,0 +1,58 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+    position: relative;
+    display: table;
+    margin: auto;
+    border: 1px solid black;
+
+    
+    
+}
+
+h1 {
+    background-color: darkred;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    border: 1px solid black;
+    justify-content: space-evenly;
+    width: 500px;
+    text-align: center;
+    
+    
+    
+}
+.work-experience {
+    background-color: darkred;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    display: flex;
+    border: 1px solid black;
+    width: 500px;
+}
+.career-asp {
+    background-color: darkred;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 500px;
+}
+.hobbies {
+    background-color: darkred;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    display: flex;
+    border: 1px solid black;
+    width: 500px;
+    padding-top: 10px;
+}
